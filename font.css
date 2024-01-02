@@ -4,6 +4,11 @@
   /* Add additional src properties for different font formats if needed */
 }
 @font-face {
+  font-family: "Minecraft"; /* Specify your custom font name */
+  src: url("./font/MinecraftBold-nMK1.otf") format("woff2"); /* Specify the path to your font file */
+  /* Add additional src properties for different font formats if needed */
+}
+@font-face {
   font-family: "Krabby"; /* Specify your custom font name */
   src: url("./font/krabby_patty/Krabby\ Patty.ttf") format("woff2"); /* Specify the path to your font file */
   /* Add additional src properties for different font formats if needed */
